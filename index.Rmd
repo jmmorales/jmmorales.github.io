@@ -4,4 +4,4 @@ date: "August 11, 2015"
 output: html_document
 ---
 
-## Ecología Cuantitativa
+## EcologÃ­a Cuantitativa
